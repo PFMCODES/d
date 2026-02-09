@@ -1,0 +1,20 @@
+{
+  "name": "@pfmcodes/d",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/pfmcodes/d#readme",
+  "bugs": {
+    "url": "https://github.com/pfmcodes/d/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfmcodes/d.git"
+  },
+  "license": "MIT",
+  "author": "PFMCODES",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "d tests/main.d"
+  }
+}
